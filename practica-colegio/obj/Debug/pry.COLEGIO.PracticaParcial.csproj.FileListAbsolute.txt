@@ -1,0 +1,53 @@
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.Form1.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAgregarBarrio.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAgregarFrutas.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmFrutasGustanAlumnos.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmRegistrarAlumnos.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.Properties.Resources.resources
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.exe.config
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.pdb
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.exe
+C:\Users\valen\OneDrive\Escritorio\Facultad\3er Semestre\Laboratorio de Programacion III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.pdb
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.exe.config
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.exe
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.pdb
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.Form1.resources
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAgregarBarrio.resources
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAgregarFrutas.resources
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmFrutasGustanAlumnos.resources
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmRegistrarAlumnos.resources
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.Properties.Resources.resources
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.GenerateResource.cache
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.exe
+C:\Users\valen\Source\Repos\LP3-Colegio.PracticaParcial\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.pdb
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.exe.config
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.exe
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\bin\Debug\pry.COLEGIO.PracticaParcial.pdb
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.Form1.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAgregarBarrio.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAgregarFrutas.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmFrutasGustanAlumnos.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmRegistrarAlumnos.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.Properties.Resources.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.exe
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.pdb
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.FrmConsultarAlumnos.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.FrmFrutasQueLeGustanAunAlumno.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.FrmVerTodosLosAlumnos.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmTodasLasFrutas.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmAqueAlumnoLeGustaUnaFruta.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmConsultarPorParteDeNombre.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmQueFrutasNoLegustanAunalumno.resources
+C:\Users\franc\OneDrive\Escritorio\practica-laboratorio-III\pry.COLEGIO.PracticaParcial\obj\Debug\pry.COLEGIO.PracticaParcial.frmFrutasYcantidadTotalDeAlumno.resources
